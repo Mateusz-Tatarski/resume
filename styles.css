@@ -40,7 +40,7 @@ body{
 .line{
     width: 25px;
     height: 3px;
-    background-color: #333;
+    background-color: #e6e6e6;
     margin: 5px;
 }
 
@@ -53,7 +53,7 @@ body{
         top: 69px;
         left: 0;
         padding: 0;
-        background-color: #cee5d0;
+        background-color: #292929;
         flex-direction: column;
         justify-content: space-evenly;
         align-items: center;
