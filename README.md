@@ -1,2 +1,2 @@
 # Resume
-This is my resume which displays my projects, skills and qualifications.
+This is my [resume](https://mateusz-tatarski.github.io/resume/) which displays my projects, skills and qualifications.
